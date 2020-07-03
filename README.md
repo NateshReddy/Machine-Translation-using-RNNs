@@ -1,4 +1,4 @@
-# Machine-Translation-using-RNNs-
+# Machine Translation using RNNs
 We have built a profound neural network that capacities as a major aspect of a machine translation pipeline. The pipeline acknowledges English content/picture as info and returns the French interpreted content. We have also used Image to text conversion and then English text to French text translation.
 
 ## Approach
