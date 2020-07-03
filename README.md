@@ -23,7 +23,7 @@ Below is a summary of the various preprocessing and modeling steps. The high-lev
 1. **Outputs** — The outputs are returned as a sequence of integers  which can then be mapped to the French dataset vocabulary.
 
 ## Results
-Validation accuracy: 85%
+Validation accuracy: 85%<br/>
 Training time: 50 epochs
 
 ## Toolset
